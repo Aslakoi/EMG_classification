@@ -1,0 +1,6 @@
+/dataset-builder-main
+/.venv
+*.csv
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
