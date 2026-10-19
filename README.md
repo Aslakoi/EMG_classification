@@ -1,7 +1,7 @@
-# Hand Gesture Classification based on EMG signals (SNS ML project)
+# Hand gesture classification based on EMG signals (S&S ML project)
 
-This a machine learning project, making and evaluating hand gesture classification models based on Electromyograpy (EMG) data.\
-The data itself is a `.zip`. After cloning project, extract it
+This is a machine learning project that builds and evaluates hand gesture classification models based on electromyography (EMG) data.
+The data is provided as a `.zip` file. After cloning the project, extract it so that `Project_Data_EE4C12_S&S_EMG.csv` is in the project folder.
 
 ## Setup
 
@@ -13,6 +13,4 @@ source .venv/bin/activate          # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-In VS Code / Jupyter, select the `.venv` kernel for `main.ipynb`.
-
-When a new library is added to `requirements.txt`, run `pip install -r requirements.txt` again (with the venv activated).
+In VS Code or Jupyter, select the `.venv` kernel for `main.ipynb` and run all cells.
